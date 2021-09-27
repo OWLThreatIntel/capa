@@ -1,4 +1,4 @@
-# strings code from FLOSS, https://github.com/fireeye/flare-floss
+# strings code from FLOSS, https://github.com/mandiant/flare-floss
 #
 # Copyright (C) 2020 FireEye, Inc. All Rights Reserved.
 # Licensed under the Apache License, Version 2.0 (the "License");

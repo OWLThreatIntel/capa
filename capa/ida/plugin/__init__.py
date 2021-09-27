@@ -27,8 +27,8 @@ class CapaExplorerPlugin(idaapi.plugin_t):
     wanted_name = PLUGIN_NAME
     wanted_hotkey = "ALT-F5"
     comment = "IDA Pro plugin for the FLARE team's capa tool to identify capabilities in executable files."
-    website = "https://github.com/fireeye/capa"
-    help = "See https://github.com/fireeye/capa/blob/master/doc/usage.md"
+    website = "https://github.com/mandiant/capa"
+    help = "See https://github.com/mandiant/capa/blob/master/doc/usage.md"
     version = ""
     flags = 0
 
